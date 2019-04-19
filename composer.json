@@ -1,13 +1,13 @@
 {
-    "name": "samdark/yii2-minimal",
-    "description": "Yii 2 minimal Application Template",
-    "keywords": ["yii", "framework", "minimal", "application template"],
-    "homepage": "https://github.com/samdark/yii2-minimal",
+    "name": "emix/yii2-minimal-docker",
+    "description": "Yii 2 minimal Application Template in Docker",
+    "keywords": ["yii", "framework", "minimal", "application template", "Docker"],
+    "homepage": "https://github.com/emix/yii2-minimal-docker",
     "type": "project",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/samdark/yii2-minimal/issues?state=open",
-        "source": "https://github.com/samdark/yii2-minimal"
+        "issues": "https://github.com/emix/yii2-minimal-docker/issues?state=open",
+        "source": "https://github.com/emix/yii2-minimal-docker"
     },
     "minimum-stability": "stable",
     "require": {
