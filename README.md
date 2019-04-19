@@ -38,7 +38,7 @@ at [getcomposer.org](http://getcomposer.org/doc/00-intro.md#installation-nix).
 You can then install this application template using the following command:
 
 ~~~
-composer create-project --prefer-dist --stability=dev emix/yii2-minimal path/to/your/project
+composer create-project --prefer-dist --stability=dev emix/yii2-minimal-docker path/to/your/project
 ~~~
 
 Now you should be able to access the application through the following URL, assuming your server webroot is pointed to
